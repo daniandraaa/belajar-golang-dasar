@@ -1,15 +1,15 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	counter := 0
+// func main() {
+// 	counter := 0
 
-	increment := func(){
-		fmt.Println("increment")
-		counter++
-	}
-	increment()
+// 	increment := func(){
+// 		fmt.Println("increment")
+// 		counter++
+// 	}
+// 	increment()
 
-	fmt.Println(counter)
-}
+// 	fmt.Println(counter)
+// }
